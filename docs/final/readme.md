@@ -58,7 +58,7 @@
 - 助教统一提交至：[https://box.nju.edu.cn/u/d/ebab750c96964dd48dc6/](https://box.nju.edu.cn/u/d/ebab750c96964dd48dc6/)
 
 ## 截止日期
-请关注课程网站通知。
+2026-01-18 20:00
 
 ---
 
