@@ -27,4 +27,4 @@ mkdocs serve
 mkdocs gh-deploy
 ```
 
-然后打开课程主页测试。课程主页链接：https://wzbxpy.github.io/LLM-System-and-Engineering/
+然后打开课程主页测试。课程主页链接：https://wzbxpy.github.io/LLM-System-and-Engineering-2025-fall/
